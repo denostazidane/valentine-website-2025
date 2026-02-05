@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yayyy! I love you baba",
-        message: "Feb 14th, 7pm dinner😉😉",
+        message: "Feb 14th, 11:30am Lunch😉😉",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
